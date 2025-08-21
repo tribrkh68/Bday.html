@@ -1,2 +1,2 @@
-# Bday.html
+# Bday
 Test
